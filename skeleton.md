@@ -1,0 +1,1 @@
+When the browser/screen is less than 550px the rows go from a 1/11; 2/10; 3/9 ... column split to rows of 12/0.  This is being performed by a @media query in the skeleton CSS framework which is changing the width and display of the columns when the width is less than 550px
